@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AUGUST</title>
+    <link rel="stylesheet" type="text/css" href="style4.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="box shadow">01-AUG-2020</div>
+      <div class="box shadow">02-AUG-2020</div>
+      <div class="box shadow">03-AUG-2020</div>
+      <div class="box shadow">04-AUG-2020</div>
+      <div class="box shadow">05-AUG-2020</div>
+      <div class="box shadow">06-AUG-2020</div>
+      <div class="box shadow">07-AUG-2020</div>
+      <div class="box shadow">08-AUG-2020</div>
+      <div class="box shadow">09-AUG-2020</div>
+      <div class="box shadow">10-AUG-2020</div>
+      <div class="box shadow">11-AUG-2020</div>
+      <div class="box shadow">12-AUG-2020</div>
+      <div class="box shadow">13-AUG-2020</div>
+      <div class="box shadow">14-AUG-2020</div>
+      <div class="box shadow">15-AUG-2020</div>
+      <div class="box shadow">16-AUG-2020</div>
+      <div class="box shadow">17-AUG-2020</div>
+      <div class="box shadow">18-AUG-2020</div>
+      <div class="box shadow">19-AUG-2020</div>
+      <div class="box shadow">20-AUG-2020</div>
+      <div class="box shadow">21-AUG-2020</div>
+      <div class="box shadow">22-AUG-2020</div>
+      <div class="box shadow">23-AUG-2020</div>
+      <div class="box shadow">24-AUG-2020</div>
+      <div class="box shadow">25-AUG-2020</div>
+      <div class="box shadow">26-AUG-2020</div>
+      <div class="box shadow">27-AUG-2020</div>
+      <div class="box shadow">28-AUG-2020</div>
+      <div class="box shadow">29-AUG-2020</div>
+      <div class="box shadow">30-AUG-2020</div>
+      <div class="box shadow">31-AUG-2020</div>
+    </div>
+  </body>
+</html>
